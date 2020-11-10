@@ -16,5 +16,9 @@ def nyc_pigeon_organizer(data)
       end 
     end 
    end 
+<<<<<<< HEAD
   #binding.pry 
+=======
+  binding.pry 
+>>>>>>> fc4da3282677c3139533cb75f5a26f54a48d5f63
 end
